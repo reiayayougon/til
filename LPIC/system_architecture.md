@@ -1,4 +1,4 @@
-### カーネル
+preview-markdown.vim: mdr not found, please install mdr### カーネル
 
 ログイン中の前ユーザーにメッセージを送信するコマンド
 ```
